@@ -27,6 +27,7 @@ public class GroovyShellEvaluateApp {
                         "TypeReference<" + type + "> typeReference = new TypeReference<" + type + ">(){};\n" +
                         "JSON.parseObject(jsonString, typeReference);"
         );
+
     }
 
     //自动执行有参数的函数

@@ -2,6 +2,7 @@ package com.chy;
 
 import groovy.lang.GroovyClassLoader;
 import groovy.lang.GroovyObject;
+import groovy.lang.Script;
 import org.codehaus.groovy.control.CompilerConfiguration;
 
 import java.io.File;
